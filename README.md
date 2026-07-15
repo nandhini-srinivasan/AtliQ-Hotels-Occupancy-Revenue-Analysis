@@ -1,8 +1,5 @@
 # AtliQ-Hotels-Occupancy-Revenue-Analysis
 Exploratory data analysis on a 25-property hotel chain (AtliQ Grands) spanning 4 Indian cities, using Python and pandas to clean booking data, engineer an occupancy metric, and surface revenue and occupancy trends for the business.
-# AtliQ Hotels — Occupancy & Revenue Analysis
-
-Exploratory data analysis on a 25-property hotel chain (AtliQ Grands) spanning 4 Indian cities, using Python and pandas to clean booking data, engineer an occupancy metric, and surface revenue and occupancy trends for the business.
 
 ## Dataset
 
